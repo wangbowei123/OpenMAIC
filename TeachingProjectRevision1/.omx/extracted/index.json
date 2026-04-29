@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "pdf": "1 湖北省高等学校教学研究项目结题报告书-学院签字版.pdf",
+    "txt": "pdf_01.txt",
+    "pages": 10,
+    "chars": 6410,
+    "low_text_pages": [
+      {
+        "page": 2,
+        "chars": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pdf": "2 省级教改项目-研究报告.pdf",
+    "txt": "pdf_02.txt",
+    "pages": 6,
+    "chars": 3988,
+    "low_text_pages": [
+      {
+        "page": 6,
+        "chars": 35,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pdf": "3 项目研究成果支撑材料.pdf",
+    "txt": "pdf_03.txt",
+    "pages": 19,
+    "chars": 17096,
+    "low_text_pages": [
+      {
+        "page": 1,
+        "chars": 0,
+        "images": 3
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "images": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pdf": "4 计算机科学与技术学院-丁俊文-AI大模型驱动的教学资源建设与实践研究.pdf",
+    "txt": "pdf_04.txt",
+    "pages": 14,
+    "chars": 6769,
+    "low_text_pages": [
+      {
+        "page": 2,
+        "chars": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "chars": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pdf": "华科计算机-丁俊文-AI大模型驱动的教学资源建设与实践研究-成果材料.pdf",
+    "txt": "pdf_05.txt",
+    "pages": 19,
+    "chars": 17096,
+    "low_text_pages": [
+      {
+        "page": 1,
+        "chars": 0,
+        "images": 3
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "images": 3
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pdf": "华科计算机-丁俊文-AI大模型驱动的教学资源建设与实践研究-结题报告书.pdf",
+    "txt": "pdf_06.txt",
+    "pages": 10,
+    "chars": 6352,
+    "low_text_pages": [
+      {
+        "page": 2,
+        "chars": 0,
+        "images": 1
+      }
+    ]
+  }
+]
