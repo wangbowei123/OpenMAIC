@@ -14,6 +14,8 @@ const eslintConfig = defineConfig([
     'next-env.d.ts',
     // Vendored/generated code:
     'packages/**',
+    'roncoo-education-master/**',
+    'online-learning-platform-master/**',
     // Claude Code local files:
     '.claude/**',
     '.superpowers/**',

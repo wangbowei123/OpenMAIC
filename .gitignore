@@ -3,6 +3,7 @@
 CLAUDE.local.md
 .claude
 .superpowers
+.codex_pdf_deps
 
 # dependencies
 /node_modules
@@ -74,3 +75,7 @@ next-env.d.ts
 # Eval results
 eval/whiteboard-layout/results/
 eval/outline-language/results/
+/TeachingProjectRevision1
+/Class_Content
+/roncoo-education-master
+/online-learning-platform-master

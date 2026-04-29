@@ -28,6 +28,7 @@ import {
   Network,
   LayoutDashboard,
   GitBranch,
+  LibraryBig,
 } from 'lucide-react';
 import { useI18n } from '@/lib/hooks/use-i18n';
 import { LanguageSwitcher } from '@/components/language-switcher';
@@ -492,6 +493,15 @@ function HomePage() {
         >
           <LayoutDashboard className="size-3.5" />
           <span className="hidden sm:inline">管理员</span>
+        </Link>
+
+        <Link
+          href="/course-hall"
+          className="flex items-center gap-1.5 rounded-full px-2.5 py-1.5 text-[12px] font-medium text-emerald-600 dark:text-emerald-300 hover:bg-white dark:hover:bg-gray-700 hover:text-emerald-800 dark:hover:text-emerald-100 hover:shadow-sm transition-all"
+          title="课程大厅"
+        >
+          <LibraryBig className="size-3.5" />
+          <span className="hidden sm:inline">课程大厅</span>
         </Link>
       </div>
       <SettingsDialog
